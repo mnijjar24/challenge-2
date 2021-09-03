@@ -6,4 +6,6 @@
  
  https://mnijjar24.github.io/challenge-2/
  
+ ![Challenge2Pic](https://user-images.githubusercontent.com/87215165/131962420-cccae2df-ec1b-401b-bf49-c6249f2dafe7.png)
+
  
