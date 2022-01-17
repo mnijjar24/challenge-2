@@ -45,7 +45,7 @@
     display: flex;
     flex-direction: column;
     background-color: rgba(0, 0, 0, 0.5);
-    height: 840px;
+    height: 1200px;
     justify-content: center;
     align-items: center;
     color: white;
@@ -56,8 +56,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    background: url('file:///C:/Users/miche/Desktop/projects/challenge2/assets/images/background.png') no-repeat center center/cover;
-    height: 900px;
+    height: 30px;
     width: 100%;
     z-index: -1;
     opacity: .8;
@@ -76,7 +75,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     text-align: center;
-    margin: 40px 0px;
+
 }
 
 .btn{
@@ -117,6 +116,7 @@
 
 .headings{
     padding: 30px;
+    height: 500px;
 }
 
 .intro{
@@ -151,6 +151,7 @@
 
 .gallery{
     display: flex;
+    margin: 100px;
 }
 
 .gallery img{
@@ -179,12 +180,18 @@
 /* ContactSection */
 
 #contact{
-    display: flex;
     flex-direction: column;
     box-sizing: border-box;
     background-color: grey;
     color: white;
     padding: 20px;
+    height: 650px;
+}
+
+.cont{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
 }
 
 .form{
@@ -192,7 +199,6 @@
     flex-direction: column;
     box-sizing: border-box;
     align-items: center;
-    margin: 20px 0px;
 }
 
 .input{
@@ -282,4 +288,13 @@
 
   .learning{
       text-align: center;
+  }
+
+  #background{
+      height: 600px;
+
+  }
+
+  .other{
+      margin: 25px;
   }
