@@ -17,5 +17,5 @@ As employers want to view a potential employee's deployed portfolio of work samp
 ## Links
 
 Deployed Application: https://mnijjar24.github.io/michelle-portfolio/
-Github Repo: https://github.com/mnijjar24/challenge-2
+Github Repo: https://github.com/mnijjar24/michelle-portfolio
 
